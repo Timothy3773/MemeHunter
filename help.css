@@ -1,0 +1,81 @@
+h1 {
+  font-family: 'Comic Sans MS';
+  font-size: 70px;
+  margin: 0;
+  user-select: none;
+  color: dodgerblue;
+  text-shadow: 0 0 7px green;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Comic Sans MS';
+  font-size: 80px;
+  margin: 0;
+  user-select: none;
+  color: dodgerblue;
+  text-shadow: 0 0 7px green;
+  text-align: center;
+}
+
+p {
+  font-family: 'Comic Sans MS';
+  font-size: 60px;
+  text-align: center;
+  color: dodgerblue;
+  text-shadow: 0 0 7px green;
+}
+
+button {
+  font-family: 'Comic Sans MS';
+  font-size: 50px;
+user-select: none;
+  border: 2px solid dodgerblue;
+  background-color: white;
+  color: dodgerblue;
+  border-radius: 5px;
+  box-shadow: 0 0 10px green;
+}
+
+button:hover {
+  font-family: 'Comic Sans MS';
+  font-size: 50px;
+user-select: none;
+  border: 2px solid dodgerblue;
+  background-color: white;
+  color: dodgerblue;
+  border-radius: 5px;
+  box-shadow: 0 0 17px green;
+}
+
+
+pre {
+  font-family: 'Comic Sans MS';
+  color: dodgerblue;
+}
+
+code {
+  background-color: rgba(43, 43, 43, 0.171)
+}
+
+table, th, td {
+  background-color: white;
+  border: 1px solid dodgerblue;
+  box-shadow: 0 0 7px green;
+}
+
+th {
+  font-size: 30px;
+  color: dodgerblue;
+  font-family: 'Comic Sans MS';
+    text-shadow: 0 0 3px green;
+}
+
+td {
+  font-size: 30px;
+  color: dodgerblue;
+  font-family: 'Comic Sans MS';
+  text-align: center;
+  text-shadow: 0 0 3px green;
+}
+
